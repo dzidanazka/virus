@@ -1,5 +1,11 @@
 HOW TO USE THIS TOOLS
 
+
+# CARA INSTALL
+root@Linux~# pip3 -m install -r requirements.txt
+
+
+
 # KALI LINUX
 1. git clone https://github.com/dzidanazka/Virus.git
 2. cd Virus
